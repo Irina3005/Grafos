@@ -1,5 +1,5 @@
 //codigo basico de calculo de grafos
-//compilacion           gcc main2.c src/nodos.c -o graph -lgdi32 -luser32
+//compilacion           gcc main.c src/nodos.c -o graph -lgdi32 -luser32
 //ejecucion             graph.exe
 
 #include <stdio.h>
