@@ -1,7 +1,6 @@
 #include <stdio.h>
 
-int main(int argc, char *argv[]) {
-	int num;
+int main(int argc, char *argv[]) {	int num;
 	int s=0;
 	printf ("Ingresa el numero de vertices de tu grafo\n");
 	scanf ("%d", &num);
